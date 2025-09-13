@@ -6,4 +6,4 @@ This repo is related to an Arduino article/tutorial.
 
 ## PlatformIO project for this example. 
 
-[See here](https://github.com/Ben-BJD/ESP32-WiFi-Data-Logging-Tutorial-01-Thingspeak-PlatformIO-Wokwi) for the Arduino IDE source code.
+[See here](https://github.com/Ben-BJD/ESP32-WiFi-Data-Logging-Tutorial-01-Thingspeak-Arduino-IDE) for the Arduino IDE source code.
